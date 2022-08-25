@@ -1,0 +1,19 @@
+{
+  "name": "se-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitulPatel5522/SE-HW1.git"
+  },
+  "author": "Mitul Patel, Mitanshu Reshamwala, Janvi Phadtare, Praneya Lal, Kaksha Mhatre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitulPatel5522/SE-HW1/issues"
+  },
+  "homepage": "https://github.com/MitulPatel5522/SE-HW1#readme"
+}
