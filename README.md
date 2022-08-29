@@ -16,7 +16,7 @@ This calculator application helps you perform basic mathematical operations: Add
 
 ![Subtraction-removebg-preview](https://user-images.githubusercontent.com/20256401/187283035-abc626f3-48bc-4cc3-9e6e-f92ffedbef7b.png)
 
-### Multiplcation:
+### Multiplication:
 
 ![Multiplication-removebg-preview](https://user-images.githubusercontent.com/20256401/187282863-3c75eb6f-dda5-4701-93a0-697982b6e727.png)
 
