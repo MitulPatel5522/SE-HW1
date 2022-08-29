@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node code/index.js",
     "dev": "nodemon code/index.js",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "testCI": "jest --coverage --coverageReporters=\"json-summary\" --collectCoverageFrom=\"./code/**\""
   },
   "repository": {
     "type": "git",
