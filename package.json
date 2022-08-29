@@ -7,7 +7,7 @@
     "start": "node code/index.js",
     "dev": "nodemon code/index.js",
     "test": "jest --watchAll",
-    "testCI": "jest --coverage --collectCoverageFrom=\"./code/**\""
+    "testCI": "jest --coverage --coverageReporters=\"json-summary\" --collectCoverageFrom=\"./code/**\""
   },
   "repository": {
     "type": "git",
