@@ -1,0 +1,5 @@
+#ignore modules
+/node_modules
+
+#ignore the test coverage
+/coverage
