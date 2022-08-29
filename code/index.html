@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+  </head>
+  <body>
+    <h1>Calculator</h1>
+    <div>
+      <label>
+        Please enter the operation:<br />
+        1. +<br />
+        2. -<br />
+        3. *<br />
+        4. /<br />
+      </label>
+      <br />
+      <input id="op" data-testId="op" />
+    </div>
+    <br />
+    <div>
+      <div>
+        <label>Enter your first operator</label>
+        <input id="a" data-testId="a" />
+      </div>
+      <br />
+      <div>
+        <label>Enter your second operator</label>
+        <input id="b" data-testId="b" />
+      </div>
+    </div>
+    <br />
+    <button id="submit" onclick="submit()">Submit</button>
+    <br />
+    <p id="ans"></p>
+    <script src="./calculator.js"></script>
+  </body>
+</html>
