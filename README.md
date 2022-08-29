@@ -5,14 +5,18 @@
 
 This calculator application helps you perform basic mathematical operations: Addition, Subtraction, Multiplication and Division. 
 
-##Addition:
-![image](https://user-images.githubusercontent.com/20256401/187279946-780c54f6-f1f6-4624-b947-8f256a95b8b8.png)
+## Addition:
 
-##Subtraction:
-![image](https://user-images.githubusercontent.com/20256401/187280114-e98c998a-6cb0-4ef7-994b-89e466d0f266.png)
+![Addition-removebg-preview](https://user-images.githubusercontent.com/20256401/187282817-70cc5b45-9522-4224-a218-d462ac67b678.png)
 
-##Multiplcation:
-![image](https://user-images.githubusercontent.com/20256401/187280233-d52e7abd-48ca-49d5-96e2-80e7c73cc4a8.png)
+## Subtraction:
 
-##Division:
-![image](https://user-images.githubusercontent.com/20256401/187280507-4180209e-0cc8-4ff3-b74b-b52ba58b5236.png)
+![Subtraction-removebg-preview](https://user-images.githubusercontent.com/20256401/187283035-abc626f3-48bc-4cc3-9e6e-f92ffedbef7b.png)
+
+## Multiplcation:
+
+![Multiplication-removebg-preview](https://user-images.githubusercontent.com/20256401/187282863-3c75eb6f-dda5-4701-93a0-697982b6e727.png)
+
+## Division:
+
+![division-removebg-preview](https://user-images.githubusercontent.com/20256401/187282881-5200096d-29c2-4870-8e54-c921272d8162.png)
