@@ -4,11 +4,17 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel = "stylesheet" href = "style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
     <title>Calculator</title>
   </head>
   <body>
-    <h1>Calculator</h1>
+    
+    <div class = "calculator">
+      <h1>Calculator</h1>
     <div>
+      
+
       <label>
         Please enter the operation:<br />
         1. +<br />
@@ -32,9 +38,11 @@
       </div>
     </div>
     <br />
-    <button id="submit" onclick="submit()">Submit</button>
-    <br />
-    <p id="ans"></p>
+    <div class = "result">
+    <div class = "child"><button id="submit" onclick="submit()">Submit</button> </div>
+    
+    <div class = "child"><p id="ans"></p></div></div>
+  </div>
     <script src="./calculator.js"></script>
   </body>
 </html>
