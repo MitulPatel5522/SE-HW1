@@ -17,7 +17,7 @@ jobs:
           node-version: 16.x
       - run: npm ci
       - run: npm run testCI
-      - run: bash ${GITHUB_WORKSPACE}/.github/coverage.sh
+      - run: bash ${GITHUB_WORKSPACE}/coverage.js
       - uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
