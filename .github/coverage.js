@@ -25,7 +25,7 @@ str = str.replace(
   /<!-- Begin Code Coverage[^]*End Code Coverage -->/gm,
   `<!-- Begin Code Coverage -->\n\
 \n\
-![Code Coverage](https://img.shields.io/badge/coverage-${pct}%-${color})\n\
+![Code Coverage](https://img.shields.io/badge/coverage-${pct}%25-${color})\n\
 \n\
 <!-- End Code Coverage -->`
 );
