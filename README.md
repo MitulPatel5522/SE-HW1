@@ -1,6 +1,7 @@
 [![GitHub license](	https://img.shields.io/github/license/MitulPatel5522/SE-HW1)](https://img.shields.io/github/license/MitulPatel5522/SE-HW1)
 <img src =  "https://img.shields.io/badge/language-node.js-green">
 <img src = "https://img.shields.io/badge/npm-v8.15.0-red">
+[![DOI](https://zenodo.org/badge/528664650.svg)](https://zenodo.org/badge/latestdoi/528664650)
 <!-- Begin Code Coverage -->
 
 ![Code Coverage](https://img.shields.io/badge/coverage-57.14%25-yellow)
@@ -33,4 +34,4 @@ This calculator application helps you perform basic mathematical operations: Add
 1. Clone this git repository or download the .zip file.
 2. To install required packages run the command ```npm install```.
 3. To start the application, run the command ```npm start```.
-   Your applcation will run at localhost:3000
+   Your application will run at localhost:3000
