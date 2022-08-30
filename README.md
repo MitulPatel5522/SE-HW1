@@ -1,6 +1,6 @@
 <!-- Begin Code Coverage -->
 
-![Code Coverage](https://img.shields.io/badge/coverage-57.14%-yellow)
+![Code Coverage](https://img.shields.io/badge/coverage-57.14%25-yellow)
 
 <!-- End Code Coverage -->
 
