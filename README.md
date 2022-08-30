@@ -28,4 +28,4 @@ This calculator application helps you perform basic mathematical operations: Add
 1. Clone this git repository or download the .zip file.
 2. To install required packages run the command ```npm install```.
 3. To start the application, run the command ```npm start```.
-   Your applcation will run at localhost:3000
+   Your application will run at localhost:3000
