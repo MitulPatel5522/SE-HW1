@@ -2,7 +2,7 @@
 <img src =  "https://img.shields.io/badge/language-node.js-green">
 <img src = "https://img.shields.io/badge/npm-v8.15.0-red">
 [![DOI](https://zenodo.org/badge/528664650.svg)](https://zenodo.org/badge/latestdoi/528664650)
-![Tests](https://github.com/MitulPatel5522/SE-HW1/actions/workflows/test.yml/badge.svg)
+[![Tests](https://github.com/MitulPatel5522/SE-HW1/actions/workflows/test.yml/badge.svg)](.github\workflows\test.yml)
 
 <!-- Begin Code Coverage -->
 
