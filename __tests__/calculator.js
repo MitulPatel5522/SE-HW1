@@ -41,7 +41,6 @@ describe("index.html", () => {
   beforeEach(() => {
     dom = new JSDOM(html, {
       runScripts: "dangerously",
-      resources: "usable",
     });
     const document = dom.window.document;
     let scriptElement = document.createElement("script");
